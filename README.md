@@ -14,7 +14,7 @@ Git is awesome and is designed to PROTECT your work. It is a tool to make your l
 ###  Set yourself up for success.
 Now that you have your own personal copy, you're free to change it however you want. Head to your Terminal and **cd** into the directory where you'd like the files to be, then tell `git` to `clone` your repository. 
 
-`git clone https://github.com/yourusername/Assessment2`
+`git clone https://github.com/yourusername/Assessment2i.git`
 
 * What git did for you there is:
 	+ created a new directory
@@ -94,7 +94,7 @@ Remember when you made a local `clone` of your remote repo? Git stored that ugly
 
 That's an easy fix: `add` the other `remote` address under a different name. zipcoder seems appropriate (these keywords are case sensitive):
 
-`git remote add zipcoder https://github.com/zipcoder/Assessment2`  
+`git remote add zipcoder https://github.com/zipcoder/Assessment2i.git`  
 
 Now we still have our own version of the repo at `origin` but we can also pull down any new changes by using the keyword `zipcoder` instead. 
 
