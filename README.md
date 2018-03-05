@@ -1,6 +1,6 @@
 # What to do if you have to use Git during a test
 
-**EDIT: to pull down all remote  branches at once:** `git fetch --all`
+**EDIT: to pull down all remote  branches at once:** `git fetch --all`, then `git checkout <part1>` or whichever branch.
  
 ###  Don't panic. 
 Git is awesome and is designed to PROTECT your work. It is a tool to make your life as a creator easier.
