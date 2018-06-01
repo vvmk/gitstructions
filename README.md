@@ -1,13 +1,14 @@
 # What to do if you have to use Git during a test
 
--- 
+___  
+
 **EDIT (don't start here): to get a branch that exists remotely but not locally...**  
 
 `git fetch --all`, then `git checkout origin/part2` or whichever \<remote\>/\<branch\>.  
 
 Now, before you go losing your head over the output text, run `git checkout -b part2` (part2 or whatever the branch is called). You're good!  
 
---
+___ 
  
 ###  Don't panic. 
 Git is awesome and is designed to PROTECT your work. It is a tool to make your life as a creator easier.
